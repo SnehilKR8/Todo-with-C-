@@ -16,7 +16,7 @@ void addTask();
 void showTask();
 int searchTasK();
 void deleteTask();
-void updateTask();
+
 
 int main()
 {
